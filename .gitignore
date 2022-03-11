@@ -1,2 +1,3 @@
 stats.txt
 venv*
+*.ipynb_checkpoints*
