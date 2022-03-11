@@ -15,3 +15,7 @@ Moving Pandas is also needed: https://github.com/anitagraser/movingpandas, the `
 * Grab the garmin data, this will put it in a sqlite db `python3 garmin_db_cli.py --all --download --import --analyze --latest`
 
 * Run the Juypter notebooks `python3 -m jupyter notebook`
+
+* moving_pandas_activity.ipyn uses the moving pandas library to output stop points and a plot speed over the route
+
+
