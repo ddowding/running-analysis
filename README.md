@@ -1,6 +1,6 @@
 ## Garmin Data analysis for running
 
-This repo contains some Jupyter notebooks which analyse my running data
+This repo contains some Jupyter notebooks which analyse running data
 
 ### Depedencies
 
