@@ -1,0 +1,6 @@
+garmindb
+fitdecode
+gpxpy
+pandas
+jupyter
+seaborn
