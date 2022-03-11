@@ -18,4 +18,10 @@ Moving Pandas is also needed: https://github.com/anitagraser/movingpandas, the `
 
 * moving_pandas_activity.ipyn uses the moving pandas library to output stop points and a plot speed over the route
 
+### Output of the speed plot with moving pandas
+![Speed analysis](https://github.com/ddowding/running-analysis/blob/master/notebook_outputs/speed_plot.png)
+
+### Output of the stop points from moving pandas
+![Stop point analysis](https://github.com/ddowding/running-analysis/blob/master/notebook_outputs/stop_points.png)
+
 
