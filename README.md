@@ -1,6 +1,6 @@
 ## Garmin Data analysis for running
 
-This repo contains some Jupyter notebooks which analyse my running data
+This repo contains some Jupyter notebooks which analyse running data
 
 ### Depedencies
 
@@ -16,6 +16,12 @@ Moving Pandas is also needed: https://github.com/anitagraser/movingpandas, the `
 
 * Run the Juypter notebooks `python3 -m jupyter notebook`
 
-* moving_pandas_activity.ipyn uses the moving pandas library to output stop points and a plot speed over the route
+* `moving_pandas_activity.ipynb` uses the moving pandas library to output stop points and a plot speed over the route
+
+### Output of the speed plot with moving pandas
+![Speed analysis](https://github.com/ddowding/running-analysis/blob/master/notebook_outputs/speed_plot.png)
+
+### Output of the stop points from moving pandas
+![Stop point analysis](https://github.com/ddowding/running-analysis/blob/master/notebook_outputs/stop_points.png)
 
 
